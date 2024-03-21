@@ -1,0 +1,4 @@
+customhost="localhost"
+customuser="root"
+custompass=""
+customdb="vim"

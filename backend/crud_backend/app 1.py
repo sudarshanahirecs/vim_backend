@@ -10,7 +10,7 @@ CORS(app)
 # MySQL Configuration
 db = pymysql.connect(host='localhost',
                      user='root',
-                     password='tiger',
+                     password='',
                      database='vim',
                      cursorclass=pymysql.cursors.DictCursor)
 
